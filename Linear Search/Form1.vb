@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    Const MAXINDEX As Integer = 20
+    Const MAXINDEX As Integer = 10
     Dim numbers(MAXINDEX) As Integer
 
     Dim itemCount As Integer = 0
